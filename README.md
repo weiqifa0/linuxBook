@@ -12,3 +12,6 @@
 ## 安装了一些基础组件的 ubuntu
 链接：https://pan.baidu.com/s/1MeIO55LD4iEULYAvRMnCfg 
 提取码：9epw
+
+## C
+

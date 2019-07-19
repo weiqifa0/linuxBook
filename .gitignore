@@ -7,4 +7,4 @@
 */.tmp_versions/
 *.ko.cmd
 *.symvers
-
+*~
